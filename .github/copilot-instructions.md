@@ -60,7 +60,7 @@ NSS (Nexus Sovereign Standard) v3.1.1 is a sovereign, GDPR-compliant AI infrastr
 - Components: UPPERCASE acronyms (MARS, APEX, SENTINEL, SHIELD, VIGIL)
 - Python modules: snake_case
 - Config files: kebab-case
-- Environment variables: NSS_ prefix + SCREAMING_SNAKE_CASE
+- Environment variables: `NSS_` prefix + `SCREAMING_SNAKE_CASE`
 - Docker images: nss/{component}:{version}
 
 ## Commit Convention

@@ -13,7 +13,7 @@
 
 ### How to Report
 
-Email: **security@nss-standard.eu**
+Email: **[security@nss-standard.eu](mailto:security@nss-standard.eu)**
 
 Include:
 

@@ -65,5 +65,4 @@ reviewed by qualified legal counsel for your specific jurisdiction and use case.
 ## 7. Contact
 
 - Project owner: LEEI1337
-- Contact: support@nss-standard.eu
-
+- Contact: [support@nss-standard.eu](mailto:support@nss-standard.eu)

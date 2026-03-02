@@ -7,7 +7,7 @@
 ## Core Documentation
 
 | Section | Description |
-|---|---|
+| --- | --- |
 | [White Paper](white-paper/NSS-v3.1.1-Enterprise-White-Paper.md) | Full technical and strategic specification |
 | [API Reference](api/openapi-spec.md) | REST API specification for all services |
 | [Architecture](architecture/) | Layer model, guardian shield, and port schema |
@@ -22,4 +22,3 @@
 
 - This index exists as a stable anchor for `../README.md` links from `docs/*/*.md`.
 - Runtime code does not depend on this file; it is documentation-only.
-

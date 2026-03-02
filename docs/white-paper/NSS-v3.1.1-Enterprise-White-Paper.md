@@ -1000,7 +1000,7 @@ spec:
 
 - **Lizenz:** CC BY-SA 4.0 (Creative Commons)
 - **Copyright:** © 2026 Jörg Fuchs
-- **GitHub:** https://github.com/LEEI1337/NSS
+- **GitHub:** [LEEI1337/NSS-v3.1.1](https://github.com/LEEI1337/NSS-v3.1.1)
 
 **Sie sind berechtigt zu:**
 - ✅ Dieses Dokument teilen (Attribution erforderlich)
@@ -1033,9 +1033,8 @@ Nächste Security Review: Mai 2026
 ### 📞 Support & Kontakt
 
 **Community Support:**
-- GitHub Issues: https://github.com/LEEI1337/NSS-v3.1.1/issues
-- Feature Requests: https://github.com/LEEI1337/NSS-v3.1.1/issues/new?template=feature_request.yml
-
+- GitHub Issues: [LEEI1337/NSS-v3.1.1 Issues](https://github.com/LEEI1337/NSS-v3.1.1/issues)
+- Feature Requests: [Feature Request Template](https://github.com/LEEI1337/NSS-v3.1.1/issues/new?template=feature_request.yml)
 
 **Commercial License Support:**
 - Enterprise Support Team

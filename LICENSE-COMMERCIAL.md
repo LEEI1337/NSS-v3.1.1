@@ -40,8 +40,8 @@ Required for:
 
 ### Contact
 
-- License inquiries: license@nss-standard.eu
-- Enterprise sales: enterprise@nss-standard.eu
+- License inquiries: [license@nss-standard.eu](mailto:license@nss-standard.eu)
+- Enterprise sales: [enterprise@nss-standard.eu](mailto:enterprise@nss-standard.eu)
 
 ---
 

@@ -4,7 +4,7 @@
 [![GDPR](https://img.shields.io/badge/GDPR-98%2F100%20(Self--Assessed)-yellow.svg)](#compliance-ratings)
 [![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-96%2F100%20(Self--Assessed)-yellow.svg)](#compliance-ratings)
 [![Version](https://img.shields.io/badge/Version-3.1.1-blue.svg)](https://github.com/LEEI1337/NSS/releases)
-[![Status](https://img.shields.io/badge/Status-Concept%20%2F%20RFC-orange.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Concept%20%2F%20RFC-orange.svg)](https://github.com/LEEI1337/NSS-v3.1.1)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/Tests-209%20passing-brightgreen.svg)](#test-suite)
 [![CI](https://img.shields.io/github/actions/workflow/status/LEEI1337/NSS/python-ci.yml?branch=main&label=CI)](https://github.com/LEEI1337/NSS/actions)
@@ -138,7 +138,6 @@ graph LR
     style RC fill:#fff9c4,color:#000
     style MS fill:#e0f2f1,color:#000
 ```
-
 
 #### Privacy & Compliance Flow
 
@@ -574,7 +573,7 @@ All contributors must agree to the [Contributor License Agreement (CLA)](CLA.md)
 
 For security-related information, please see our [Security Policy](SECURITY.md).
 
-- **Critical/High vulnerabilities:** Report 
+- **Critical/High vulnerabilities:** Report privately via [security@nss-standard.eu](mailto:security@nss-standard.eu)
 - **Low/Medium vulnerabilities:** Open a [Security Issue](https://github.com/LEEI1337/NSS/issues/new?template=security_vulnerability.yml)
 
 ---
@@ -594,7 +593,6 @@ For security-related information, please see our [Security Policy](SECURITY.md).
 |---------|--------|
 | Bug Reports | [GitHub Issues](https://github.com/LEEI1337/NSS-v3.1.1/issues) |
 | Feature Requests | [Feature Request Template](https://github.com/LEEI1337/NSS-v3.1.1/issues/new?template=feature_request.yml) |
-
 
 ---
 

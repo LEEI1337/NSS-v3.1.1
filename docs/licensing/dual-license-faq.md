@@ -96,8 +96,8 @@ Yes. Contributions are welcome regardless of your license type. Contributions to
 ### How do I obtain a commercial license?
 
 Contact the NSS team:
-- **Email:** support@nss-standard.eu
-- **GitHub:** https://github.com/LEEI1337/NSS
+- **Email:** [support@nss-standard.eu](mailto:support@nss-standard.eu)
+- **GitHub:** [LEEI1337/NSS-v3.1.1](https://github.com/LEEI1337/NSS-v3.1.1)
 
 ---
 

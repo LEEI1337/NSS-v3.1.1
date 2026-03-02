@@ -33,6 +33,7 @@ NSS uses a dedicated port schema in the 113XX range (a nod to "LEET") with stric
 | `POST` | `/v1/process` | `NSSRequest` | Full 6-layer pipeline: PII -> SENTINEL -> MARS -> APEX -> SHIELD -> LLM |
 
 **NSSRequest schema:**
+
 ```json
 {
   "user_id": "string",
@@ -73,6 +74,7 @@ NSS uses a dedicated port schema in the 113XX range (a nod to "LEET") with stric
 | `GET` | `/metrics` | Full metrics snapshot (counters + histograms) |
 
 **Metrics response schema:**
+
 ```json
 {
   "timestamp": 1707400000,
